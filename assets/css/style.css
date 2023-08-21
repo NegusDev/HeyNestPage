@@ -3286,7 +3286,7 @@ textarea.form-control {
 	background-size  : contain;
 	content          : '';
 	width            : 320px;
-	height           : 710px;
+	height           : 50vh;
 	z-index          : 3;
 }
 
